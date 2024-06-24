@@ -15,36 +15,34 @@ TritonHacks is a two-day high school level hackathon aimed at providing greater 
 
 In addition to typical hackathon incentives such as workshops, teams, event swag and prizes, we placed an emphasis on individual mentorship during the hackathon to ensure that beginners have ways to reach out for help and unblock themselves on their projects. Every student that participated in TritonHacks had access to tutors to help with code debugging and a mentor to their team that checked in with them regularly as a point of contact and welcoming figure.
 
-We also offered starter kits ([Machine Learning Starter Kit](https://github.com/tritonhacks/Tritonhack2024-ML-Starter-Kit)), ([Web Development Starter Kit](https://github.com/tritonhacks/thwebdev-24)), ([Unity Game Development Kit](https://github.com/tritonhacks/TH24-NatureHuntStarter)) designed and documented by our organizing team for students to use as a framework and guide for their project to learn a new technology during the weekend. This year, our event theme was focused on environmental conservation and protection so our 3 starter kits were built to address this theme. We had tutors available throughout the event that were proficient in many technologies to answer questions relating to any of the starter kits, Github, software engineering, and any other issues.
+We also offered starter kits, ([Machine Learning Starter Kit](https://github.com/tritonhacks/Tritonhack2024-ML-Starter-Kit)), ([Web Development Starter Kit](https://github.com/tritonhacks/thwebdev-24)), ([Unity Game Development Kit](https://github.com/tritonhacks/TH24-NatureHuntStarter)), designed and documented by our organizing team for students to use as a framework and guide for their project to learn a new technology during the weekend. This year, our event theme was focused on environmental conservation and protection so our 3 starter kits were built to address this theme. We had tutors available throughout the event that were proficient in many technologies to answer questions relating to any of the starter kits, Github, software engineering, and any other issues.
 
 As our event focused heavily on community in San Diego, we hosted our hackathon on campus at UC San Diego in the Computer Science and Engineering Building to show students what a university looks like and like as a college student. All meals during the event were catered by local restaurants and vendors.
 
-We hosted a couple non-technical and technical workshops to help students in their journey to build a project: *'Introduction to Space + How to win a hackathon!'*, *Design & Prototyping*, *Intro to Web Development*, *Intro to Data Science*, *Boardgame Social Event*, and *Presentation Workshop: How to present the design process*.
+We hosted a couple non-technical and technical workshops to help students in their journey to build a project: *'Team building'*, *Github*, *Intro to Web Development*, *Intro to Computer Vision*, *3D Graphics with Three.js*, *Gartic Phone Social*, and *Project Pitching &Public Speaking*.
 
 ## Event Metrics
 
 | Attendees |  Projects |
 | --------: | -----------------------------------------------------: |
-|        84 |  23 ([Project Gallery](https://tritonhacks22.devpost.com/project-gallery)) |
+|        85 |  25 ([Project Gallery](https://tritonhacks-2024.devpost.com/project-gallery)) |
 
-##### Attendees: 84 (22% increase from last year)
-##### Projects: 24 [Project Gallery](https://tritonhacks23.devpost.com/project-gallery)
+##### Attendees: 85 (1.19% increase from last year)
+##### Projects: 25 [Project Gallery](https://tritonhacks-2024.devpost.com/project-gallery)
 
-##### Out of 46 feedback form respondents:
-- 30.4% of hackers came in with an idea; the rest of the students came up with an idea with their groups, with tutor/mentor input, or with *'Introduction to Space + How to win a hackathon!'* workshop inspiration
-- 93% of students received help when they needed it
-- 9 students used workshops as a help resource, 15 students used mentors/tutors for help
-- 52.2% of students got an idea for their project from the starter kits
+##### Out of 29 feedback form respondents:
+- 57.1% of hackers came in with an idea; the rest of the students came up with an idea with their groups, with tutor/mentor input, or with workshop inspiration
+- 100% of students received help when they needed it
+- 37.5% of students got an idea for their project from the starter kits
 - ###### **Post Hackathon**
-    - 82.2% of students learned something new
-    - 79.1% of students became more excited about college
-    - **97.7% of students became more intersted in computer science after the hackathon**
+    - 96.4% of students became more excited about college
+    - **97.3% of students became more intersted in computer science after the hackathon**
 
 ## Tech Impact / Diversity
 
 ### Tell us about your hacker demographics
 
-As the objective of our hackathon was to reach out to San Diegan high school students of underrepresented backgrounds, we kept track of the hackers that attended. We had 66 males, 17 females, and 1 non-binary person. Roughly 20.2% of attendees were female.
+As the objective of our hackathon was to reach out to San Diegan high school students of underrepresented backgrounds, we kept track of the hackers that attended. We had 55 males, 28 females, and 2 non-binary person. Roughly 32.9% of attendees were female.
 
 ### What race & ethnicities did your hackers identify as?
 
