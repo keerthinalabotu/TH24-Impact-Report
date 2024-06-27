@@ -42,19 +42,19 @@ We hosted a couple non-technical and technical workshops to help students in the
 
 ### Tell us about your hacker demographics
 
-As the objective of our hackathon was to reach out to San Diegan high school students of underrepresented backgrounds, we kept track of the hackers that attended. We had 55 males, 28 females, and 2 non-binary person. Roughly 32.9% of attendees were female.
+As the objective of our hackathon was to reach out to San Diegan high school students of underrepresented backgrounds, we kept track of the hackers that attended. We had 58 males, 24 females, and 3 non-binary person. Roughly 32.9% of attendees were female.
 
 ### What race & ethnicities did your hackers identify as?
 
 | Other | Native American / <br> Alaskan Native | Native Hawaiian / <br> other Pacific Islander | Decline to answer  | Hispanic / <br> Latinx | White | Asian |
 | ----: | ------------------------------------: | ----------------------------: | ---------------------: | ----: | ----: | ----: |
-| 1 |                                     1 |                             3 |                     4 |    14 |    16 | 50 |
+| 2 |                                     0 |                             0 |                     4 |    23 |    14 | 42 |
 
 ### First Generation Student
 
 | Yes | No | 
 | -----------: | ------------: | 
-|            21 |            60 | 
+|            24 |            61 | 
 
 ## Top Projects
 
