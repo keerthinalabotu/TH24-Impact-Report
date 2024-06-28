@@ -58,19 +58,23 @@ As the objective of our hackathon was to reach out to San Diegan high school stu
 
 ## Top Projects
 
-While all the projects can be found on our [Devpost gallery](https://tritonhacks23.devpost.com/project-gallery), here's a little about the grand prize winners! Each of the projects are hosted on GitHub repos for everybody to see how the project was built at the end. Some teams used GitHub for collaboration during this event.
+While all the projects can be found on our [Devpost gallery](https://tritonhacks-2024.devpost.com/project-gallery), here's a little about the grand prize winners! Each of the projects are hosted on GitHub repos for everybody to see how the project was built at the end. Some teams used GitHub for collaboration during this event.
 
-[Stargazing Forever](https://devpost.com/software/stargazing-forever): "One of our team members loves stars. He has a telescope and all. He went to Joshua Tree once but realized it was hard to see stars. He then realized that there should be a place where he can tell if it is an excellent place to see the stars." To tackle this issue, the team built a website that takes in user input of a location and outputs a stargazing point value, with a higher value being a better place to watch the stars.
+[Smart Fridge](https://devpost.com/software/smartfridge-2w1ym7): "Ever find moldy and expired food in the back of your fridge, forcing you to throw it away? I agree, we all have. Our project SmartFridge's goal is to eliminate this problem that EVERYONE faces in order to reduce food waste."
 
-[Escape the Earth](https://devpost.com/software/escape-the-earth): "We were inspired by a curiosity and interest over the complex process and calculations to determine if a rocket will successfully orbit earth. We also were inspired by a lack of awareness on the impact of space flight on the environment. Our website simulation allows users to design a rocket based on parameters such as amount of fuel and weight of payload and launch it into space. Users are rewarded for minimizing fuel while maximizing payload and successfully making it into earth's orbit" 
+[EcoPals](https://devpost.com/software/ecopals): "In a world filled with unsustainable human activities, poaching, pollution, and more, the situation of endangered species is a crisis that needs immediate attention. Having learned about keystone species in AP Biology and how the extinction of a single species can destroy the balance of an entire ecosystem, our members decided to tackle raising awareness for and protecting endangered species. Realizing the importance of teaching children from a young age, EcoPals aims to educate children about how their actions impact ecosystems and encourage them to take action in protecting endangered species." 
 
-[Asteroid Attack](https://devpost.com/software/asteroid-attack-47p0h2): "We took inspiration from the space theme of this year's hackathon to develop a space-themed game. Our project is a game that has multiple spaceships the player can pick to navigate through incoming asteroids and meteors. The further the player is able to go without crashing, the higher the player's score gets."
+[Kritter Klutter](https://devpost.com/software/kritter-klutter): "When we pollute our environments with litter, it’s negatively affects the local ecosystem.."
+
+[Mindful Hunting](https://devpost.com/software/hunting-game): "Many animals are illegally killed in the wild. We wanted to spread awareness of these illegal killings through a game we made on snap. An inspiration for this game would be the 1984 Duck Hunt Game."
+
+[Crustacean Conservation Corps](https://devpost.com/software/crustacean-conservation-corps): "I love playing platformer games on CoolMathGames, so I decided to make my own with Python! I was also inspired by the Civilian Conservation Corps from FDR's New Deal."
 
 ## Event Photos
 
-All of the photos can be found on our [public album](https://drive.google.com/drive/folders/1rWoChMY2Ug0_najx8bfldixXFjKb0A0u) but here's a few highlights!
+All of the photos can be found on our [public album](https://photos.app.goo.gl/k3mKVPbdcBaZmQrAA) but here's a few highlights!
 
-| ![1-check-in](./images/IMG_2760.jpg) |
+| ![1-check-in](7C0A6626.JPG) |
 | :----------------------------------: |
 |         **Checking-in**         |
 
