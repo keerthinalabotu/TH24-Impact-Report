@@ -74,7 +74,7 @@ While all the projects can be found on our [Devpost gallery](https://tritonhacks
 
 All of the photos can be found on our [public album](https://photos.app.goo.gl/k3mKVPbdcBaZmQrAA) but here's a few highlights!
 
-| ![1-check-in](7C0A6626.JPG) |
+| ![1-check-in](7C0A6626.jpg) |
 | :----------------------------------: |
 |         **Checking-in**         |
 
