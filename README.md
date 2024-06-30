@@ -74,42 +74,77 @@ While all the projects can be found on our [Devpost gallery](https://tritonhacks
 
 All of the photos can be found on our [public album](https://photos.app.goo.gl/k3mKVPbdcBaZmQrAA) but here's a few highlights!
 
-| ![1-check-in](7C0A6626.jpg) |
 | :----------------------------------: |
 |         **Checking-in**         |
+![7C0A6625](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/895787cf-9ab7-49ca-ae9e-32d692669d8e)
 
-| ![2-opening](./images/IMG_2785.jpg) |
 | :----------------------------------: |
 |         **Opening Ceremony**         |
+![7C0A6628](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/589b4953-d1f7-4f55-aa63-b0bb087df4b8)
+![7C0A6678](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/04beade0-aea5-4785-8fe2-028963de376e)
+![7C0A6689](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/e36588db-e645-4f5d-a417-e3d792d22475)
 
-| ![3-team](./images/IMG_2814.jpg) |
 | :----------------------------------: |
 |      **Team building**       |
+![7C0A6693](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/ec2b4a3d-2a41-46e0-9e5c-3c63be83e428)
+![7C0A6697](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/7ab9c2b6-54a4-43e2-840b-b33ef3c9bdf0)
+![7C0A6700](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/5f93b5e1-f107-4ec8-abf9-f5e82a8ed793)
+![7C0A6710](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/7d23ad68-fabd-44d9-b532-afdbe7fabeb4)
+![7C0A6722](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/1b20f1ff-5ff8-401d-ac10-8d76d1257cf6)
+![7C0A6730](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/a3336d83-f181-4330-806b-0b609dc8699a)
 
-| ![4-workshop](./images/IMG_3070.jpg) |
 | :------------------------------------: |
 |            **Workshopping**            |
+![7C0A6742](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/15d17c6d-7bd5-4997-a5b2-c3a688cfac57)
+![7C0A6743](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/3798ba3a-14c3-455f-9f8a-97e608b00484)
+![7C0A6750](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/7027dc57-6e2c-4a17-875c-af393085965e)
+![7C0A6760](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/c77574ef-04cd-4475-a3c1-c8faf37e0f79)
+![7C0A6763](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/4b39bec4-0787-4515-a0f3-5a788fa489ad)
+![7C0A6777](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/177cce3d-a7fa-4ac1-8641-e92d4010d8c1)
+![7C0A6893](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/61d4684c-4c82-427e-88cc-8b1116999511)
+![7C0A6934](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/446a4484-cdf3-496f-a4d7-5d74a982c042)
+![7C0A7043](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/c745dd14-8bde-418f-9039-946ee9cb0ceb)
+![7C0A7053](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/24a98cec-a6c9-44e5-86fc-a8fc453e3e77)
 
-| ![5-break](./images/IMG_3031.jpg) |
 | :--------------------------------: |
 |             **A break from coding!**             |
+![7C0A6788](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/e1a7ab8d-ea64-4485-8bbe-7be9425bd11a)
+![7C0A6799](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/6cd06334-79eb-4d54-af31-241db7f01da0)
+![7C0A6806](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/bfc1972b-b015-44d4-86ca-4697afaeec7e)
+![7C0A6835](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/4b225b59-cf40-4632-8787-a2c32fa5ee4e)
+![7C0A6859](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/c3016beb-c1f6-40de-a6a0-092857dd2002)
 
-|    ![6-volunteer](./images/IMG_3240.jpg)    |
 | :--------------------------------------------: |
 | **Tutors doing what tutors do best** |
+![7C0A6949](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/c22bb131-5af9-471e-a05f-d35f349c3850)
+![7C0A6950](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/7624dea5-6cb4-4042-b7eb-d74c7550cd00)
+![7C0A6966](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/6d457080-b710-4d07-83e5-1a728adc0af6)
+![7C0A7082](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/d0b265c3-608b-47fe-af7d-8c6281c41a86)
 
-|    ![7-work](./images/IMG_3147.jpg)    |
 | :--------------------------------------------: |
 | **Students working hard on their projects** |
+![7C0A6907](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/23225dae-8d64-4eaa-afbc-1e81a31ed59e)
+![7C0A6904](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/74cb333e-3c64-49a4-95ab-991db70ca0da)
+![7C0A6917](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/1fae9c1c-2b8b-40d5-931e-213add873901)
+![7C0A6955](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/db25238d-61fc-4d8e-9da7-70a02d22c102)
+![7C0A6964](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/1dcdac26-9883-4c45-87bc-79bc2f60465f)
+![7C0A6975](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/1b2bf8fa-670a-47d9-a0d5-d5fcef0c43d8)
 
-
-| ![8-refuel](./images/IMG_2882.jpg) |
 | :--------------------------------: |
 |        **Time for lunch!**         |
+![7C0A7129](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/df2cc961-2dfc-4b3e-8b20-b0f57d13e1e2)
+![7C0A6810](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/d95c2736-190b-4e9f-a682-240af8ac7257)
+![7C0A6779](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/30c656c3-3c9e-4b4c-ad1a-a3a7eb958e89)
 
-| ![9-judge](./images/IMG_3463.jpg) |
 | :------------------------------: |
 |           **Judging**            |
+![7C0A7138](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/66018ee3-34cd-4cbb-acf5-85c65fd9bdef)
+![7C0A7318](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/75c8192a-d799-4a8e-a55b-a531ffe23a8f)
+![7C0A7321](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/54b7087c-8593-4725-abac-7663020e3309)
+![7C0A7341](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/76cc0739-4e7f-4842-b2b2-dc1968bfe886)
+![7C0A7419](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/c674ba93-b047-42f6-81ad-9d2bf9aad1ff)
+![7C0A7492](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/32df0a26-b13c-4534-aada-3899ae62e8dd)
+![7C0A7623](https://github.com/tritonhacks/TH24-Impact-Report/assets/144857467/5a5b2748-094f-42b2-90eb-8cbbfa9d0439)
 
 
 ## What’s Next?
